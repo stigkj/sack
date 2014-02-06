@@ -12,7 +12,7 @@
 # run this script from where the git repo is cloned to.
 
 # sack installation variables
-sack__install_main=~/bin
+sack__install_main=~/Dropbox/bin
 sack__install_sackrc=~/
 sack__install_cwd=$(pwd)
 
